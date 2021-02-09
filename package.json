@@ -1,0 +1,29 @@
+{
+  "name": "sql-zoo-answers",
+  "version": "1.0.0",
+  "description": "Answers to SQL Zoo for Microverse Database Classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxenprogrammer/sql-zoo-answers.git"
+  },
+  "keywords": [
+    "SQL",
+    "MySQL",
+    "Database",
+    "RDMS",
+    "Schema"
+  ],
+  "author": "emanuel okello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oxenprogrammer/sql-zoo-answers/issues"
+  },
+  "homepage": "https://github.com/oxenprogrammer/sql-zoo-answers#readme",
+  "devDependencies": {
+    "sql-formatter": "^4.0.0-beta.3"
+  }
+}
