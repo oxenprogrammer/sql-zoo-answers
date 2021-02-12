@@ -1,1 +1,2 @@
 # sql-zoo-answers
+- Some of the solutions to https://sqlzoo.net/wiki/SQL_Tutorial questions intended for stretching ones muscles to learning SQL. Thanks to microverse.org for pointing to these useful resources.
